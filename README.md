@@ -1,5 +1,5 @@
-- 👋 Oi! Eu sou Renan Maciel!
-- 🌱 Estou estudando Java e Kotlin.
+- 👋 Eu sou Renan Maciel!
+- 🌱 Estou estudando Java
 - 📫 Contate-me no email: renanmacielsd@gmail.com
 
 
